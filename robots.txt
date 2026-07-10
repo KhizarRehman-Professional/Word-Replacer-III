@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khizarrehman-professional.github.io/word-replacer-iii/sitemap.xml
