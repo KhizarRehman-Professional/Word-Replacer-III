@@ -1,30 +1,28 @@
-# Word Replacer III
+# Word Replacer III — Official Site
 
-A custom browser extension that replaces words and phrases on any web page in real-time. Built with **HTML, CSS, JavaScript, and Manifest V3**.
+Landing page for the **Word Replacer III** browser extension.
 
----
-
-## Features
-
-- 🔁 **Real-time Word Replacement** — Automatically replaces target words across all websites
-- ⚙️ **Custom Isolated Words Setting** — Define your own replacement rules
-- 🧩 **Manifest V3 Architecture** — Modern, secure, and performance-optimized
-- 🎨 **Clean Popup UI** — Simple, intuitive interface for managing replacements
-- 🔄 **Ongoing Updates** — Active maintenance and feature development
+🔗 **Live Site:** [https://khizarrehman-professional.github.io/word-replacer-site/](https://khizarrehman-professional.github.io/word-replacer-site/)
 
 ---
+
+## Pages
+
+| Page | Description |
+|------|-------------|
+| `index.html` | Homepage — features and overview |
+| `about.html` | About the extension |
+| `donate.html` | Support the project |
+| `privacy.html` | Privacy policy |
+| `terms.html` | Terms of use |
+| `license.html` | License information |
 
 ## Tech Stack
 
-- **HTML** — Extension popup structure
-- **CSS** — Styling and responsive popup layout
-- **JavaScript** — Core logic, DOM manipulation, and storage
-- **Manifest V3** — Chrome extension platform
+- HTML5
+- CSS3
+- Static assets (images, icons)
 
 ---
 
-## Installation (Developer Mode)
-
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/KhizarRehman-Professional/word-replacer-iii.git
+*Built by Khizar Rehman.*
