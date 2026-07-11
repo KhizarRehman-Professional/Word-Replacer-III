@@ -4,6 +4,8 @@ Landing page for the **Word Replacer III** browser extension.
 
 🔗 **Live Site:** [https://khizarrehman-professional.github.io/Word-Replacer-III/](https://khizarrehman-professional.github.io/Word-Replacer-III/)
 
+
+🔗 **Source Code:** [https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode/](https://github.com/KhizarRehman-Professional/Word-Replacer-III-Extension-SourceCode/)
 ---
 
 ## Pages
