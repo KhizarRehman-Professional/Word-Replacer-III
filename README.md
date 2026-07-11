@@ -2,7 +2,7 @@
 
 Landing page for the **Word Replacer III** browser extension.
 
-🔗 **Live Site:** [https://khizarrehman-professional.github.io/word-replacer-site/](https://khizarrehman-professional.github.io/word-replacer-site/)
+🔗 **Live Site:** [https://khizarrehman-professional.github.io/Word-Replacer-III/](https://khizarrehman-professional.github.io/Word-Replacer-III/)
 
 ---
 
